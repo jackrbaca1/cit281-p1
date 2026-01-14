@@ -1,0 +1,10 @@
+node_modules
+.env
+.DS_Store
+*.zip
+*.mp4
+documentation/
+Week8/p8_work/
+
+
+
